@@ -13,3 +13,6 @@ git push
 
 tạo nhánh
 git checkout -b login 
+
+xem các nhánh hiện có
+git branch
