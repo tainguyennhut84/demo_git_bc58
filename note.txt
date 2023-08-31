@@ -10,3 +10,6 @@ git push -u origin master
 
 Đẩy lần 2 trở đi :
 git push
+
+đem code từ master sang login
+git merge login
